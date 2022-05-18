@@ -3,7 +3,7 @@
 If you want to run this project then you have to follow steps:
 
 Start
-Download the project rar file form github.
+Download the project rar file from github.
 Extract file into your folder.
 Open database file and execute the code into sql.
 Now open code file to run project.
